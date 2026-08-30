@@ -42,7 +42,7 @@ python servidor.py
 
 Then open `http://localhost:5000` in your browser.
 
-## Author
+## Authors
 
 Esther Duarte dos Reis — Mechatronics Engineering student, UFSC
 Lucas Turcatto de Carvalho - Automative Engineering student, UFSC
